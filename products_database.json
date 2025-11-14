@@ -1,0 +1,270 @@
+{
+  "lastProductId": 44,
+  "nextProductId": 45,
+  "categories": {
+    "abstraktni-kartini": {
+      "name": "Абстрактни картини",
+      "productCount": 8,
+      "productIds": [1, 2, 3, 4, 5, 6, 43, 44]
+    },
+    "minimalisticni-kartini": {
+      "name": "Минималистични картини",
+      "productCount": 6,
+      "productIds": [7, 8, 9, 10, 11, 12]
+    },
+    "prirodni-motivi": {
+      "name": "Природни мотиви",
+      "productCount": 6,
+      "productIds": [13, 14, 15, 16, 17, 18]
+    },
+    "silueti-portreti": {
+      "name": "Силуети и портрети",
+      "productCount": 6,
+      "productIds": [19, 20, 21, 22, 23, 24]
+    },
+    "geometricni-boho": {
+      "name": "Геометрични и Boho",
+      "productCount": 6,
+      "productIds": [25, 26, 27, 28, 29, 30]
+    },
+    "mnogochastni-kartini": {
+      "name": "Многочастни картини",
+      "productCount": 6,
+      "productIds": [31, 32, 33, 34, 35, 36]
+    },
+    "burlogata": {
+      "name": "Бърлогата",
+      "productCount": 6,
+      "productIds": [37, 38, 39, 40, 41, 42]
+    }
+  },
+  "products": {
+    "1": {
+      "title": "Абстрактни вълни",
+      "description": "Ярки цветни форми в хармонична композиция. Модерна картина която внася енергия и стил. Перфектна за съвременни интериори.",
+      "category": "abstraktni-kartini",
+      "tags": ["абстрактно", "модерно", "цветно"],
+      "material": "Канава с ултра качествен печат",
+      "price": 89,
+      "size": "50x70 см",
+      "colors": ["Синьо", "Златисто"],
+      "style": ["Абстрактно", "Модерно"],
+      "finish": "Гланцово",
+      "status": "active"
+    },
+    "2": {
+      "title": "Цветна експлозия",
+      "category": "abstraktni-kartini",
+      "price": 95,
+      "size": "60x80 см",
+      "colors": ["Многоцветно"],
+      "style": ["Абстрактно", "Модерно"],
+      "finish": "Гланцово",
+      "status": "active"
+    },
+    "3": {
+      "title": "Златни форми",
+      "category": "abstraktni-kartini",
+      "price": 79,
+      "size": "40x60 см",
+      "colors": ["Златисто", "Черно"],
+      "style": ["Абстрактно", "Модерно"],
+      "finish": "Матово",
+      "status": "active"
+    },
+    "4": {
+      "title": "Геометрична абстракция",
+      "category": "abstraktni-kartini",
+      "price": 85,
+      "size": "50x70 см",
+      "colors": ["Синьо", "Бяло"],
+      "style": ["Абстрактно", "Геометрично"],
+      "finish": "Гланцово",
+      "status": "active"
+    },
+    "5": {
+      "title": "Модерна композиция",
+      "category": "abstraktni-kartini",
+      "price": 92,
+      "size": "60x80 см",
+      "colors": ["Черно", "Бяло", "Златисто"],
+      "style": ["Абстрактно", "Модерно"],
+      "finish": "Матово",
+      "status": "active"
+    },
+    "6": {
+      "title": "Абстрактен пейзаж",
+      "category": "abstraktni-kartini",
+      "price": 88,
+      "size": "50x70 см",
+      "colors": ["Синьо", "Зелено"],
+      "style": ["Абстрактно", "Природа"],
+      "finish": "Гланцово",
+      "status": "active"
+    },
+    "7": {
+      "title": "Линии и форми",
+      "category": "minimalisticni-kartini",
+      "price": 75,
+      "size": "40x60 см",
+      "colors": ["Черно", "Бяло"],
+      "style": ["Минималистично", "Модерно"],
+      "finish": "Матово",
+      "status": "active"
+    },
+    "8": {
+      "title": "Минимализъм в черно",
+      "category": "minimalisticni-kartini",
+      "price": 82,
+      "size": "50x70 см",
+      "colors": ["Черно", "Бяло"],
+      "style": ["Минималистично"],
+      "finish": "Матово",
+      "status": "active"
+    },
+    "9": {
+      "title": "Прости форми",
+      "category": "minimalisticni-kartini",
+      "price": 78,
+      "size": "40x60 см",
+      "colors": ["Сиво", "Бяло"],
+      "style": ["Минималистично", "Геометрично"],
+      "finish": "Матово",
+      "status": "active"
+    },
+    "10": {
+      "title": "Модерна простота",
+      "category": "minimalisticni-kartini",
+      "price": 85,
+      "size": "50x70 см",
+      "colors": ["Бежово", "Златисто"],
+      "style": ["Минималистично", "Модерно"],
+      "finish": "Гланцово",
+      "status": "active"
+    },
+    "11": {
+      "title": "Геометрична хармония",
+      "category": "minimalisticni-kartini",
+      "price": 79,
+      "size": "40x60 см",
+      "colors": ["Черно", "Бяло"],
+      "style": ["Минималистично", "Геометрично"],
+      "finish": "Матово",
+      "status": "active"
+    },
+    "12": {
+      "title": "Елегантна простота",
+      "category": "minimalisticni-kartini",
+      "price": 88,
+      "size": "60x80 см",
+      "colors": ["Сиво", "Бяло"],
+      "style": ["Минималистично"],
+      "finish": "Матово",
+      "status": "active"
+    },
+    "37": {
+      "title": "Червена легенда",
+      "category": "burlogata",
+      "price": 129,
+      "size": "50x70 см",
+      "colors": ["Червена"],
+      "style": ["Спортна"],
+      "finish": "Гланцово",
+      "status": "active"
+    },
+    "38": {
+      "title": "Черна стрела",
+      "category": "burlogata",
+      "price": 139,
+      "size": "60x80 см",
+      "colors": ["Черна"],
+      "style": ["Съвременна"],
+      "finish": "Матово",
+      "status": "active"
+    },
+    "39": {
+      "title": "Жълтата красавица",
+      "category": "burlogata",
+      "price": 119,
+      "size": "40x60 см",
+      "colors": ["Жълта"],
+      "style": ["Класическа"],
+      "finish": "Гланцово",
+      "status": "active"
+    },
+    "40": {
+      "title": "Сребърния самолет",
+      "category": "burlogata",
+      "price": 149,
+      "size": "60x80 см",
+      "colors": ["Сребриста"],
+      "style": ["Съвременна"],
+      "finish": "Гланцово",
+      "status": "active"
+    },
+    "41": {
+      "title": "Синя мечта",
+      "category": "burlogata",
+      "price": 109,
+      "size": "50x70 см",
+      "colors": ["Синя"],
+      "style": ["Класическа"],
+      "finish": "Матово",
+      "status": "active"
+    },
+    "42": {
+      "title": "Абстракт модерна картина",
+      "description": "Модерна картина със геометрични форми и портретни елементи. Комбинира абстракцията с портретни черти, създавайки уникален и привлекателен визуален ефект. Идеална за съвременни и модерни интериори.",
+      "category": "abstraktni-kartini",
+      "tags": ["геометрия", "портрет", "абстракт", "модерно", "цветно"],
+      "material": "еталбон с висококачествен печат и защитно покритие",
+      "price": 70,
+      "size": "70x40 см",
+      "colors": ["Многоцветна"],
+      "style": ["Геометрия", "Лице", "Портрет"],
+      "finishOptions": ["Гланцово", "Матово"],
+      "productionTime": "3 работни дни",
+      "imagePath": "categories/abstraktni/abstract-face-geometry",
+      "images": ["abstract-face-geometry-preview01.jpg", "abstract-face-geometry.jpg"],
+      "status": "active"
+    },
+    "43": {
+      "title": "Абстракт модерна картина",
+      "description": "Модерна картина със геометрични форми и портретни елементи. Комбинира абстракцията с портретни черти, създавайки уникален и привлекателен визуален ефект. Идеална за съвременни и модерни интериори.",
+      "category": "abstraktni-kartini",
+      "tags": ["геометрия", "портрет", "абстракт", "модерно", "цветно"],
+      "material": "еталбон с висококачествен печат и защитно покритие",
+      "price": 70,
+      "size": "70x40 см",
+      "colors": ["Многоцветна"],
+      "style": ["Геометрия", "Лице", "Портрет"],
+      "finishOptions": ["Гланцово", "Матово"],
+      "productionTime": "3 работни дни",
+      "imagePath": "categories/abstraktni/abstract-face-geometry",
+      "images": ["abstract-face-geometry-preview01.jpg", "abstract-face-geometry.jpg"],
+      "status": "active"
+    },
+    "44": {
+      "title": "Абстракт картина за стена",
+      "description": "Модерна картина със геометрични форми и портретни елементи. Комбинира абстракцията с портретни черти, създавайки уникален и привлекателен визуален ефект. Идеална за съвременни и модерни интериори.",
+      "category": "abstraktni-kartini",
+      "tags": ["геометрия", "портрет", "абстракт", "модерно", "цветно"],
+      "material": "еталбон с висококачествен печат и защитно покритие",
+      "price": 70,
+      "size": "70x43 см",
+      "colors": ["чорно-бяло"],
+      "style": ["Геометрия", "Лице", "Портрет"],
+      "finishOptions": ["Гланцово", "Матово"],
+      "productionTime": "3 работни дни",
+      "imagePath": "categories\\abstraktni\\abstract_01",
+      "images": ["abstract_preview01.jpg", "abstract-face-bw.jpg"],
+      "status": "active"
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-11-14",
+    "totalProducts": 44,
+    "activeProducts": 44,
+    "version": "1.2"
+  }
+}

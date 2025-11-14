@@ -1,0 +1,19 @@
+AddDefaultCharset UTF-8
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Redirect non-www to www
+    RewriteCond %{HTTP_HOST} !^www\. [NC]
+    RewriteRule ^(.*)$ https://www.%{HTTP_HOST}/$1 [L,R=301]
+
+    # Redirect HTTP to HTTPS
+    RewriteCond %{HTTPS} off
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [L,R=301]     
+
+    # Handle 404 errors
+    ErrorDocument 404 /404.html
+    ErrorCode 404 /404.html
+</IfModule>     
+
+
+        
